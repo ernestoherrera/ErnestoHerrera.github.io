@@ -32,7 +32,7 @@ mytheme:          'theme-base-08'
 paginate:         1
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://ernestoherrera.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://ernestoherrera.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ernestolivelife
 github_username:  ernestoherrera
 github:           'https://github.com/ernestoherrera'
