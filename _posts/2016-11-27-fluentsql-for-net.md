@@ -3,6 +3,7 @@ layout: post
 title:  "FluentSql for Dapper - A Walk through the code"
 date:   2016-11-27 21:13:52 -0500
 categories: Sql statements for Dapper
+tags: Dapper Sql .NET Data Access
 ---
 <div class="message">
 # A .NET library that Produces Sql statements for Dapper
