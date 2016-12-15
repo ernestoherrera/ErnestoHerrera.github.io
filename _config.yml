@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 # Dependencies
 markdown:         redcarpet
-highlighter:      rb-pygments
+highlighter:      rouge
 
 # Permalinks
 permalink:        pretty
