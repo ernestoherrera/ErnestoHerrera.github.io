@@ -10,5 +10,5 @@ tags: Dapper Sql .NET Data Access
 </div>
 FluentSql was designed with the goal of writing Sql like statements using C# or VB. While using one Fluent interface, the library can produce different flavors of Sql statements: Oracle, MySql, Postgres, Sql Server. As of this version (1.7.9) the library produces Sql Server statements. It is my intension that by describing the architecture of this library there will be developers that would like to help in developing FluentSql further.
 
-![medium-pic](https://ernestoherrera.github.io/public/images/FluentSqlDiagram_Medium.png){:height="800px" width="680px"}
+![medium-pic](https://ernestoherrera.github.io/public/images/FluentSqlDiagram_Medium.png){:height="700px" width="630px"}
 
