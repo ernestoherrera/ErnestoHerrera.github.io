@@ -26,6 +26,6 @@ Implementing the ISqlGenerator interface is step number two when creating a new 
 In some instances, one may need to provide Sql dialect specific tests. One of the goals of this project is to make the current set of test cases work for the different Sql dialects. Therefore, one does not need to implement all test cases.
 
 <iframe src="https://ghbtns.com/github-btn.html?user={{ site.github_username }}&repo=FluentSql&type=fork&count=true" frameborder="0" scrolling="0" width="170px" height="20px"></iframe>
-<div><a href="https://github.com/ernestoherrera/FluentSql" style="color:#000">{% octicon mark-github %} Project site</a></div>
+<div><a href="https://github.com/ernestoherrera/FluentSql" style="color:#000">Project site</a></div>
 
 
