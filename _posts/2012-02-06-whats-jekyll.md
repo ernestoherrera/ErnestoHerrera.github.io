@@ -3,6 +3,10 @@ layout: post
 title: What's Jekyll?
 tags: jekyll
 ---
+<div class="message">
+  This is one of the default Jekyll pages.
+  Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
+</div>
 
 [Jekyll](http://jekyllrb.com) is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From [the project's readme](https://github.com/mojombo/jekyll/blob/master/README.markdown):
 

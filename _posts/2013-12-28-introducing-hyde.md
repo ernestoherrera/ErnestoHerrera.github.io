@@ -3,6 +3,9 @@ layout: post
 title: Introducing Hyde
 tags: hyde jekyll
 ---
+<div class="message">
+	This this the theme used for this blog. This is the defualt Hyde page.
+</div>
 
 Hyde is a brazen two-column [Jekyll](http://jekyllrb.com) theme that pairs a prominent sidebar with uncomplicated content. It's based on [Poole](http://getpoole.com), the Jekyll butler.
 
