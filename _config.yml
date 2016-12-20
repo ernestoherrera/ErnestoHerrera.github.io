@@ -28,7 +28,7 @@ email:            ernesto.blog@outlook.com
 author:
   name:           'Ernesto Herrera'
   url:            'https://twitter.com/ernestolivelife'
-mytheme:          'theme-base-08'
+mytheme:          'theme-base-0d'
 paginate:         1
 
 baseurl: "/" # the subpath of your site, e.g. /blog
