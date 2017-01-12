@@ -4,10 +4,21 @@ title:  "FluentSql for Dapper - A Walk through the code"
 date:   2016-11-27 21:13:52 -0500
 categories: Sql statements for Dapper
 tags: Dapper Sql .NET Data Access
+download:
+fork:
+project: http://github.com/ernestoherrera/fluentSql
 ---
-<div class="message" >
-FluentSql is a library that Produces Sql statements for Dapper
-</div>
+
+<table>
+<td align="right">
+<a href="http://github.com/ernestoherrera/fluentSql">
+<span style="margin-right: 15px;">
+{% octicon mark-github %} </span> 
+</a>
+<iframe src="https://ghbtns.com/github-btn.html?user={{ site.github_username }}&repo=FluentSql&type=fork&count=true" frameborder="0" scrolling="0" width="50px" height="20px" style="vertical-align: center;"></iframe>
+
+</td></table>
+
 
 FluentSql was designed with the goal of writing Sql like statements using C# or VB while using a fluent api. In addition, the library can produce different flavors of Sql statements: Oracle, MySql, Postgres, Sql Server. As of this version (1.7.9) the library produces Sql Server statements only. It is my intension that by describing how this library is put together there will be developers that would like to join the effort in moving this work forward.
 
@@ -25,7 +36,6 @@ Implementing the ISqlGenerator interface is step number two when creating a new 
 
 In some instances, one may need to provide Sql dialect specific tests. One of the goals of this project is to make the current set of test cases work for the different Sql dialects. Therefore, one does not need to implement all test cases.
 
-<iframe src="https://ghbtns.com/github-btn.html?user={{ site.github_username }}&repo=FluentSql&type=fork&count=true" frameborder="0" scrolling="0" width="170px" height="20px"></iframe>
 <div><a href="https://github.com/ernestoherrera/FluentSql" style="color:#000">Project site</a></div>
 
 

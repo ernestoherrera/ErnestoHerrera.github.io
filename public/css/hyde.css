@@ -179,12 +179,15 @@ a.sidebar-nav-item:focus {
 
 /* Red */
 .theme-base-08 .sidebar {
-  background-color: #ac4142;
+  background-color: #702412;
 }
 .theme-base-08 .content a,
 .theme-base-08 .related-posts li a:hover {
-  color: #ac4142;
+  color: #702412;
 }
+/* Dark Red */
+/* 582412 */
+/* ac4142 */
 
 /* Orange */
 .theme-base-09 .sidebar {
@@ -224,11 +227,11 @@ a.sidebar-nav-item:focus {
 
 /* Blue */
 .theme-base-0d .sidebar {
-  background-color: #6a9fb5;
+  background-color: #0066cc;
 }
 .theme-base-0d .content a,
 .theme-base-0d .related-posts li a:hover {
-  color: #6a9fb5;
+  color: #0066cc;
 }
 
 /* Magenta */
