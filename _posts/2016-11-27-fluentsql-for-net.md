@@ -11,12 +11,7 @@ project: http://github.com/ernestoherrera/fluentSql
 
 <table>
 <td align="right">
-<a href="http://github.com/ernestoherrera/fluentSql">
-<span style="margin-right: 15px;">
-{% octicon mark-github %} </span> 
-</a>
 <iframe src="https://ghbtns.com/github-btn.html?user={{ site.github_username }}&repo=FluentSql&type=fork&count=true" frameborder="0" scrolling="0" width="50px" height="20px" style="vertical-align: center;"></iframe>
-
 </td></table>
 
 
