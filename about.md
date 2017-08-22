@@ -13,5 +13,7 @@ permalink: /about/
  - Consiced, precised and fast.
  - Rely on the system to describe itself.
 
- That's enough for technical talk. I am a husband, father, brother, son. I like to spend time with my family. One of the pass times that we enjoy as a family is watching the Voice tv program. Somewhere in my timeline, I took the wrong turn because I would have loved to be a singer; nonetheless, I can't carry a tune for the life of me.
-
+ That's enough for technical talk. I am a husband, father, brother, son. Things that I like:
+ - Take vacations with family.
+ - Forged in Fire TV series. I'd like to learn to be a blacksmith.
+ - AGT, The Voice, Alone, and Suits TV series.
